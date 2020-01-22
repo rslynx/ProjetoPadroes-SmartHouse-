@@ -1,0 +1,1 @@
+# ProjetoPadroes-SmartHouse-
